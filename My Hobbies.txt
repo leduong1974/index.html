@@ -1,0 +1,16 @@
+<!Doctype html>
+<html lang="vie">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>My Hobbies</title>
+    </head>
+    <body>
+        <h1>My Hobbies</h1>
+        <ul>
+            <li>Đọc sách</li>
+            <li>Nghe Nhạc</li>
+            <li>Chơi đàn</li>
+            <li>Xem phim</li>
+        </ul>
+    </body>
+</html>

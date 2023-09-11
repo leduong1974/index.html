@@ -1,0 +1,17 @@
+<!Doctype html>
+<html lang="vie">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Contact me</title>
+    </head>
+
+    <body>
+        <h1>My Contact Details</h1>
+        <ul>
+            <li>Address: Võng Xuyên - Phúc Thọ - Hà Nội</li>
+            <li>Tele: 0849277522</li>
+            <li>Email: leduong1974pt@gmail.com</li>
+            <li>Liên hệ trực tiếp qua Facebook hoặc Twitter</li>
+        </ul>
+    </body>
+</html>
